@@ -1,2 +1,2 @@
 # 01-gate-engineering-mathematics
-This repo contains my preparation for GATE EC exam for mathematics subject
+Comprehensive notes, formulas, solved examples, PYQs, and revision material for GATE ECE Engineering Mathematics
